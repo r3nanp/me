@@ -51,6 +51,12 @@ a:hover {
   filter: brightness(0.8);
 }
 
+.logo {
+  height: 2em;
+  vertical-align: middle;
+  border-radius: 100%;
+}
+
 .container {
   padding: calc(55px * var(--scale));
   margin: 0 auto;
